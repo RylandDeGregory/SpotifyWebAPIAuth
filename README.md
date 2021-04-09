@@ -2,7 +2,7 @@
 
 > Adapted from the Spotify [web-app-auth-examples](https://github.com/spotify/web-api-auth-examples) repo.
 
-This repository contains a basic application showing the Authorization Code OAuth 2.0 flow for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
+This repository contains a basic application showing the Authorization Code OAuth 2.0 flow for [authenticating against the Spotify Web API](https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow).
 
 ## Install Node.js and app dependencies
 
