@@ -1,5 +1,9 @@
 # Spotify Authorization Code flow sample
 
+**NOTE:** This repo is no longer required for using the [SpotifyExporter](https://github.com/RylandDeGregory/SpotifyExporter) application, as it now has a PowerShell method of obtaining an OAuth 2 Refresh Token using `Get-SpotifyRefreshToken.ps1`.
+
+---
+
 > Adapted from the Spotify [web-app-auth-examples](https://github.com/spotify/web-api-auth-examples) repo.
 
 This repository contains a basic application showing the Authorization Code OAuth 2.0 flow for [authenticating against the Spotify Web API](https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow).
